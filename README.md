@@ -8,7 +8,7 @@ Joy with Turtle Graphics in Kotlin Multiplatform
 ##
 
 leider habe ich es nicht hingekriegt eine Ausführbare Datei zu generieren,\
-aber in der IDE kann man das Programm starten./
+aber in der IDE kann man das Programm starten.\
 Wenn Sie die **IntelliJ IDEA** verwenden, können Sie ein neues Projekt mit dem Namen **JoyWTG2** kreieren,\
 den *package*-Pfad auch entsprechend anpassen.\
 Und die die **Main.kt** mit dieser **Main.kt** an der entsprechenden Stelle ersetzen.\
