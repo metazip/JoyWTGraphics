@@ -1,0 +1,4 @@
+init penup 400 -190 moveto pendown 4 13 ldragon draw
+ldragon == rolldown 2 index 0 = [3 index move] [3 index 3 index 1 - ldragon 90 rad turn 3 index 3 index 1 - rdragon] if [pop pop] dip
+rdragon == rolldown 2 index 0 = [3 index move] [3 index 3 index 1 - ldragon -90 rad turn 3 index 3 index 1 - rdragon] if [pop pop] dip
+"dragon" save

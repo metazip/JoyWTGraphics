@@ -1,0 +1,5 @@
+hallo
+hallo == "Hello World" print
+[files] [.] !
+"hallo" save
+["hallo" loadtext] [.] !

@@ -1,0 +1,3 @@
+init flower draw
+flower == 5 [1 swap penup 400 -350 moveto pendown 20 [45 [2 index move -8 rad turn] times penup 2 index neg move pendown swap 1 + swap] times -72 rad turn swap pop] times
+"flower" save
