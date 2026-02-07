@@ -24,4 +24,4 @@ Viel Spass
 ##
 
 **P.S.**: Wenn Sie ein Kotlin-Profi sein sollten und es für Sie ein Leichtes ist hierfür eine ausführbare Datei\
-(z.B. .jar-Datei) zu erstellen können Sie mir dies in Issues mitteilen.
+(z.B. .jar-Datei) zu erstellen, können Sie mir dies in Issues mitteilen.
