@@ -20,3 +20,8 @@ Mit **files** eintippen und **CALC** anklicken und danach **.s** anklicken, werd
 Man kann auch **help** und **words** verwenden, um die Wörter anzuzeigen.\
 \
 Viel Spass
+
+##
+
+**P.S.**: Wenn Sie ein Kotlin-Profi sein sollten und es für Sie ein Leichtes ist eine ausführbare Datei (z.B. .jar-Datei)\
+zu erstellen können Sie mir dies in Issues mitteilen.
